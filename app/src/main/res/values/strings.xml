@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Project UAS</string>
+    <string name="heroes_name">Nama Kartu</string>
+    <string name="type">"EX21-28"</string>
+    <string name="tahun">5th Anniversary Set Premium Edition</string>
+    <string name="share">Share</string>
+    <string name="judul_detail">Deskripsi</string>
+    <string name="detail">Details</string>
+    <string name="legal">DBSCG Bo1 Regulation DBSCG Special Bo1 Regulation DBSCG Tournament Regulation</string>
+    <string name="about">About Me</string>
+    <string name="grid">Grid View</string>
+    <string name="menu_item_title">About Me</string>
+    <string name="favorite">Suka</string>
+    <string name="with_cardiew">Card View</string>
+    <string name="list">Mode List</string>
+</resources>
